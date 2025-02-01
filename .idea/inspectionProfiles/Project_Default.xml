@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyShadowingNamesInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="library.faker.Faker" />
+          <option value="object.status_code" />
+          <option value="tests.mp.mvp.components.login.payload" />
+          <option value="object.json" />
+          <option value="library.helpers.test_data" />
+          <option value="library.mp.mvp_public.component.base64.*" />
+          <option value="tests.mp.mvp_public.execute_campaign.test_execute_campaign_and_precodings.*" />
+          <option value="tests.mp.mvp.campaign.test_create_email_channel" />
+          <option value="tests.mp.mvp.campaign.email_channel" />
+          <option value="tests.mp.mvp_public.execute_campaign.test_get_email_channel_list_client" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
